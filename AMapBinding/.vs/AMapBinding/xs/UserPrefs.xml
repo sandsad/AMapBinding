@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MAMapKit/ApiDefinition.cs">
+    <Files>
+      <File FileName="MAMapKit/ApiDefinition.cs" Line="4" Column="19" />
+      <File FileName="MAMapKit/Structs.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AMapBinding" expanded="True">
+            <Node name="AMapSearchKit" expanded="True" />
+            <Node name="MAMapKit" expanded="True">
+              <Node name="NativeReferenceFolder" expanded="True" />
+              <Node name="ApiDefinition.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
