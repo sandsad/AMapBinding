@@ -1,0 +1,37 @@
+sharpie bind -framework ./AMapFoundationKit.framework -sdk iphoneos14.4 -namespace AMapFoundationKit
+
+
+
+MAMapRectGetMidY
+MAStringFromMapSize
+MAMapRectMake
+MAMapRectGetMinY
+MAMapSizeEqualToSize
+MAMapRectGetWidth
+MAMapRectGetHeight
+MAMapSizeMake
+MAStringFromMapRect
+MAMapPointMake
+MAPathShowRangeMake
+MAMapRectEqualToRect
+MAMapRectIsNull
+MAMapRectGetMidX
+MAMapRectIsEmpty
+MACoordinateBoundsMake
+AMapEmptyStringIfNil
+MACoordinateRegionMake
+MAMapPointEqualToPoint
+MAMapRectGetMaxY
+MACoordinateSpanMake
+MAMapRectGetMinX
+MAStringFromMapPoint
+MAMapRectGetMaxX
+
+-ObjC -all_load -lz -lstdc++ -lc++
+OpenGLES UIKit Foundation CoreGraphics QuartzCore CoreLocation CoreTelephony SystemConfiguration Security AdSupport JavaScriptCore GLKit
+
+
+-ObjC -all_load -lstdc++ -lc++
+SystemConfiguration CoreTelephony QuartzCore CoreText CoreGraphics UIKit Foundation CFNetWork CoreMotion
+
+
